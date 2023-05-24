@@ -31,9 +31,39 @@ section{
 }   
 p{
     margin: 5px ;
+    color: white;
 }
 a{
     font-size: 25px;
     margin: auto 25px ;
     color: #000000;
 }
+section#lucax{
+    background-image: url(../images/pxfuel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+section#samuca{
+    background-image: url(../images/pxfuel\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+section#bruno{
+    background-image: url(../images/pxfuel\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+section#aligon{
+    background-image: url(../images/pxfuel\ \(3\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
